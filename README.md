@@ -10,7 +10,7 @@ Abstract
 
 Project Features
 
-Problem Statement
-EDA (Handling Duplicate Values, Outliers, Missing Values)
-Feature Selection and Engineering (Encoding and Scaling)
-Modeling, Analytics, and Evaluation (ROC-AUC, Logistic Regression, and Hyperparameter Tuning)
+- Problem Statement
+- EDA (Handling Duplicate Values, Outliers, Missing Values)
+- Feature Selection and Engineering (Encoding and Scaling)
+- Modeling, Analytics, and Evaluation (ROC-AUC, Logistic Regression, and Hyperparameter Tuning)
